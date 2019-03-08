@@ -1,4 +1,4 @@
 My Poem 
 by Edgar Priednieks
-
-Telling you the changes, by a pull request i did 
+Adding a line where there was none
+Telling you the changes, by a pull request i didn't 
