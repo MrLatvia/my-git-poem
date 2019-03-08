@@ -1,4 +1,10 @@
 My Poem 
 by Edgar Priednieks
+
+Telling you the changes, by a pull request i did 
+
+Let's hope this branch
+Doesn't whither and die like the last few
+
 Adding a line where there was none
 Telling you the changes, by a pull request i didn't 
